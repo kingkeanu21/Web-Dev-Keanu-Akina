@@ -1,4 +1,4 @@
-/*Josh Birchall*/
+/*Keanu Akina*/
 body{
     background-image:url(../images/background.jpg)
 }
@@ -18,7 +18,7 @@ body{
 }
 
 h5{
-    font-family: Lora;
+    font-family: sans-serif;
     text-align: center;
     font-size: 30px;
     border-top: 2px; 
@@ -26,6 +26,6 @@ h5{
     
 }
 .resumelistheading {
-    font-weight: bold;
-    font-style: normal;
+    font-weight: normal;
+    font-style: italic;
 }
